@@ -1,0 +1,25 @@
+.inputComponent {
+    display: flex;
+    flex-direction: row;
+    width: 683px;
+    height: 64px;
+    margin: 150px;
+}
+
+.input {
+    width: 516px;
+    height: 64px;
+    border-radius: 24px;
+    background-color: #F5EDF7;
+    color: #372D3B;
+    font-size: 24px;
+    border: none;
+    text-overflow: ellipsis; 
+    overflow: hidden;
+    white-space: nowrap;
+    outline: none;
+}
+
+input.input::-webkit-input-placeholder {
+    padding: 20px;
+}

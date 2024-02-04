@@ -1,0 +1,18 @@
+.findDriver {
+    display: flex;
+    flex-direction: column;
+    width: 673px;
+    height: 48px;
+    color: #372D3B;
+    font-size: 35px;
+    margin: 50px;
+}
+.findDriver .driver {
+    color: #864293;
+}
+
+.findDriver .distancia_tempo {
+    margin-top: 5px;
+    color: #372D3B;
+    font-size: 20px;
+}
