@@ -10,14 +10,14 @@ export default function Home() {
           <span className={styles.paradinhaCinza}></span>
           <div className={styles.driver__find}>
             <FindDriver 
-            motorista='Rafael' minutos='10 minutos' distancia='800' medida='metros'
+            motorista='Boris' minutos='3 minutos' distancia='800' medida='metros'
             />
           </div>
           <div className={styles.driver__details}>
           <DriverDetails placa='BCDOD19' modelo='Honda Civic Roxo'/>
           </div>
           <div>
-            <Input type='text' placeholder='Enviar mensagem para Rafael...'/>
+            <Input type='text' placeholder='Enviar mensagem para Boris...'/>
           </div>
       </div>
     </main>

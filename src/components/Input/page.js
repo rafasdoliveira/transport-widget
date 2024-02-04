@@ -10,6 +10,14 @@ export default function Input({type, placeholder}) {
                 required
                 />
             </div>
+            <div className={styles.vector}>
+                <span>
+                    <img className={styles.fone} src='/Vector1.svg'></img>
+                </span>
+                <span>
+                    <img className={styles.security} src='/Vector.svg'></img>
+                </span>
+            </div>
         </div>
     )
 }

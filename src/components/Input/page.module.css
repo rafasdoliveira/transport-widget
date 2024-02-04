@@ -23,3 +23,15 @@
 input.input::-webkit-input-placeholder {
     padding: 20px;
 }
+
+.vector {
+    margin: 8px;
+}
+
+.fone {
+    margin-left: 15px;
+}
+
+.security {
+    margin-left: 15px;
+}
