@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.main_container}> 
-          <span className={styles.paradinhaCinza}></span>
+      <div className={styles.paradinhaCinza}>.</div>
           <div className={styles.driver__find}>
             <FindDriver 
             motorista='Boris' minutos='3 minutos' distancia='800' medida='metros'
