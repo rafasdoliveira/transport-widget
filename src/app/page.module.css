@@ -21,8 +21,7 @@
 .paradinhaCinza {
   margin-top: 20px;
   width: 168px;
-  height: 17px;
+  padding: 10px;
   border-radius: 999px;
   background-color: #E5D8EA;
-  color: #E5D8EA;
 }
